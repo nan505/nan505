@@ -6,6 +6,9 @@ Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e
 
 
 ## Atualmente aprendendo:
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+
+<div align="center" style="display: inline_block">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+</div>
 
