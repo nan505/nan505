@@ -4,8 +4,9 @@
 
 Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e aprofundar meus conhecimentos sobre assuntos que me interessam!
 
-
-## Atualmente aprendendo:
+<div align="center">
+<h2>Atualmente aprendendo:</h2>
+</div>
 
 <div align="center" style="display: inline_block">
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"/>
