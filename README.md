@@ -4,13 +4,6 @@
 
 Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e aprofundar meus conhecimentos sobre assuntos que me interessam!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nan505&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-</picture>
-
 ## Atualmente aprendendo:
 
 <div align="center" style="display: inline_block">
