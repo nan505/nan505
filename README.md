@@ -4,6 +4,8 @@
 
 Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e aprofundar meus conhecimentos sobre assuntos que me interessam!
 
+![Nan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan505&show_icons=true&theme=radical)
+
 ## Atualmente aprendendo:
 
 <div align="center" style="display: inline_block">
