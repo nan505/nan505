@@ -14,4 +14,5 @@ Atualmente cursando TI no Senac por curiosidade e diversão, adoro me desafiar e
     <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 </div>
