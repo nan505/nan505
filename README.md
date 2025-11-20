@@ -14,12 +14,13 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
     <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=radical&count_private=true&hide_border=true">
 </section>
 
-## Meus projetos:
+## Principais projetos:
 
 <section>
-    <a href="https://github.com/nan505/Jornada-MySQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=radical&hide_border=true&show_owner=true">
-    </a>
+
+[![Jornada MySQL](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=radical&hide_border=true&show_owner=true)](https://github.com/nan505/Jornada-MySQL)
+[![Jornada JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=JoaoGomeszs&repo=Jornada-JavaScript&theme=radical&hide_border=true&show_owner=true)](https://github.com/JoaoGomeszs/Jornada-JavaScript)
+
 </section>
 
 ## Linguagens e ferramentas:
