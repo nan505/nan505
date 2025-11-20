@@ -9,8 +9,16 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
 - <b>Interesses:</b> Informática, design, jogos, filmes e músicas!
 
 <section>
-    <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20" />
+    <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20">
     <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=radical&count_private=true&hide_border=true">
+</section>
+
+## Meus projetos:
+
+<section>
+    <a href="https://github.com/nan505/Jornada-MySQL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=radical&hide_border=true&show_owner=true">
+    </a>
 </section>
 
 ## Linguagens e ferramentas:
