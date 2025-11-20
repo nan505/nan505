@@ -6,7 +6,7 @@
 
 Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curiosidade e diversão, gosto de me desafiar e aprofundar meus conhecimentos sobre assuntos e tópicos que me interessam. 
 
-<b>Interesses:</b> Informática, design, jogos, filmes e músicas!
+- <b>Interesses:</b> Informática, design, jogos, filmes e músicas!
 
 <section>
     <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20" />
