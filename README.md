@@ -21,12 +21,12 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
     </details>
 </div>
 
-## Principais projetos:
+## Meus projetos:
 
 <section>
 
+[![Recanto Pessoal](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Recanto-Pessoal&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/nan505/Recanto-Pessoal)
 [![Jornada MySQL](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/nan505/Jornada-MySQL)
-[![Jornada JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=JoaoGomeszs&repo=Jornada-JavaScript&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/JoaoGomeszs/Jornada-JavaScript)
 
 </section>
 
