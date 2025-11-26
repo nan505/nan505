@@ -43,4 +43,7 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo">
 </div>
 
-<h1><i>"Got it memorized?"</i><img height="50px" alt="Sea-salt ice cream" src="./imgs/Ice_Cream.png"></h1>
+<h3 align="center"><i>"Get it memorized, alright?"</i></h3>
+<div align="center">
+    <img height="40px" alt="Sea-salt ice cream" src="./imgs/Ice_Cream.png">
+</div>
