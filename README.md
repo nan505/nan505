@@ -1,4 +1,8 @@
-## _"...but I've learned deep down there's a light that never goes out!"_ - Sora
+<div align="center">
+    <img height="80" src="./imgs/Axel_Chess_Piece.png">
+</div>
+
+<h2 align="center"><i>"Go on, you just keep running! But I'll always be there to bring you back!"</i> ― Axel, VIII</h2>
 
 ### Opa, podem me chamar de Nan!
 
@@ -9,13 +13,13 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
 - <b>Interesses:</b> Informática, design, jogos, filmes e músicas!
 - <b>Franquias de jogos favoritas:</b> Kingdom Hearts, Resident Evil e Monster Hunter.
 
-<section>
+<div>
     <details>
     <summary><b>GitHub Stats 📈</b></summary>
         <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20">
         <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=radical&count_private=true&hide_border=true">
     </details>
-</section>
+</div>
 
 ## Principais projetos:
 
@@ -38,3 +42,5 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
     <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo">
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo">
 </div>
+
+<h1><i>"Got it memorized?"</i><img height="50px" alt="Sea-salt ice cream" src="./imgs/Ice_Cream.png"></h1>
