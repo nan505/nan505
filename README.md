@@ -16,8 +16,8 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
 <div>
     <details>
     <summary><b>GitHub Stats 📈</b></summary>
-        <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=dracula&show_icons=true&count_private=true&hide_border=true&line_height=20">
-        <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=dracula&count_private=true&hide_border=true">
+        <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=aura_dark&show_icons=true&count_private=true&hide_border=true&line_height=20">
+        <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=aura_dark&count_private=true&hide_border=true">
     </details>
 </div>
 
@@ -25,8 +25,8 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
 
 <section>
 
-[![Jornada MySQL](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=dracula&hide_border=true&show_owner=true)](https://github.com/nan505/Jornada-MySQL)
-[![Jornada JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=JoaoGomeszs&repo=Jornada-JavaScript&theme=dracula&hide_border=true&show_owner=true)](https://github.com/JoaoGomeszs/Jornada-JavaScript)
+[![Jornada MySQL](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/nan505/Jornada-MySQL)
+[![Jornada JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=JoaoGomeszs&repo=Jornada-JavaScript&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/JoaoGomeszs/Jornada-JavaScript)
 
 </section>
 
