@@ -43,19 +43,6 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo">
 </div>
 
-## Tenho interesse em aprender:
-
-<div align="center" style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo">
-    <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo">
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="50" alt="gamemaker logo">
-    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo">
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo">
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo">
-    <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo">
-    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazon web services logo">
-</div>
-
 <h3 align="center"><i>"Get it memorized, alright?"</i></h3>
 <div align="center">
     <img height="40px" alt="Sea-salt ice cream" src="./imgs/Ice_Cream.png">
