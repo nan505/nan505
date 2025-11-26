@@ -10,8 +10,11 @@ Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
 - <b>Franquias de jogos favoritas:</b> Kingdom Hearts, Resident Evil e Monster Hunter.
 
 <section>
-    <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20">
-    <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=radical&count_private=true&hide_border=true">
+    <details>
+    <summary><b>GitHub Stats 📈</b></summary>
+        <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=20">
+        <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=radical&count_private=true&hide_border=true">
+    </details>
 </section>
 
 ## Principais projetos:
