@@ -8,27 +8,10 @@
 
 `Qualquer pronome` `pt-BR` `en` `💍💕`
 
-Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curiosidade e diversão, gosto de me desafiar e aprofundar meus conhecimentos sobre assuntos e tópicos que me interessam. Meu objetivo inicial era aprender apenas sobre manutenção de computadores, mas me encontro cada vez mais fascinado pela área de programação e desenvolvimento em geral.
+Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curiosidade e diversão, gosto de me desafiar e aprofundar meus conhecimentos sobre assuntos e tópicos que me interessam. Meu objetivo inicial era aprender apenas sobre manutenção de computadores, mas me encontro cada vez mais fascinado pela área de programação e desenvolvimento web.
 
 - <b>Sistema Operacional:</b> Windows 10 Home
 - <b>Navegador padrão:</b> Mozilla Firefox
-
-<div>
-    <details>
-    <summary><b>GitHub Stats 📈</b></summary>
-        <img height="140" alt="Nan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nan505&theme=aura_dark&show_icons=true&count_private=true&hide_border=true&line_height=20">
-        <img height="140" alt="Nan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nan505&layout=compact&theme=aura_dark&count_private=true&hide_border=true">
-    </details>
-</div>
-
-## Meus projetos:
-
-<section>
-
-[![Recanto Pessoal](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Recanto-Pessoal&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/nan505/Recanto-Pessoal)
-[![Jornada MySQL](https://github-readme-stats.vercel.app/api/pin/?username=nan505&repo=Jornada-MySQL&theme=aura_dark&hide_border=true&show_owner=true)](https://github.com/nan505/Jornada-MySQL)
-
-</section>
 
 ## Linguagens e ferramentas:
 
