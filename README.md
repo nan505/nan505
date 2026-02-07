@@ -1,8 +1,8 @@
 <div align="center">
-    <img height="80" src="./imgs/Axel_Chess_Piece.png" alt="Axel's Chess Piece">
+    <img height="80" src="./imgs/Paopu_Fruit.png" alt="Paopu Fruit">
 </div>
 
-<h2 align="center"><i>"Go on, you just keep running! But I'll always be there to bring you back!"</i> ― Axel, VIII</h2>
+<h2 align="center"><i>"There are many worlds, but they share the same sky. One sky, one destiny."</i></h2>
 
 ### Opa, podem me chamar de Nan!
 
