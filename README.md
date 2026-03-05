@@ -8,7 +8,7 @@
 
 `Qualquer pronome` `pt-BR` `en` `💍💕`
 
-Tenho 19 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curiosidade e diversão, gosto de me desafiar e aprofundar meus conhecimentos sobre assuntos e tópicos que me interessam. Meu objetivo inicial era aprender apenas sobre manutenção de computadores, mas me encontro cada vez mais fascinado pela área de programação e desenvolvimento web.
+Tenho 20 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curiosidade e diversão, gosto de me desafiar e aprofundar meus conhecimentos sobre assuntos e tópicos que me interessam. Meu objetivo inicial era aprender apenas sobre manutenção de computadores, mas me encontro cada vez mais fascinado pela área de programação e desenvolvimento web.
 
 - <b>Sistema Operacional:</b> Windows 10 Home
 - <b>Navegador padrão:</b> Mozilla Firefox
