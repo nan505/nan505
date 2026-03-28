@@ -32,3 +32,9 @@ Tenho 20 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
 <div align="center">
     <img height="40px" alt="Sea-salt ice cream" src="./imgs/Ice_Cream.png">
 </div>
+
+<div align="center">
+
+![snake gif](https://github.com/nan505/nan505/blob/output/github-snake-dark.svg)
+
+</div>
