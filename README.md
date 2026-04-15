@@ -23,6 +23,7 @@ Tenho 20 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curios
     <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap Logo">
     <img src="https://skillicons.dev/icons?i=md" height="50" alt="Markdown Logo">
     <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL Logo">
+    <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP Logo">
     <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode Logo">
     <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="Visual Studio Logo">
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub Logo">
