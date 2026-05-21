@@ -6,7 +6,7 @@
 
 ### Opa, podem me chamar de Nan!
 
-`Qualquer pronome` `pt-BR` `en` `💍💕`
+`Qualquer pronome` `pt-BR` `en`
 
 Tenho 20 anos e atualmente estou cursando T.I. no Senac (2025 - 2027) por curiosidade e diversão, gosto de me desafiar e aprofundar meus conhecimentos sobre assuntos e tópicos que me interessam. Meu objetivo inicial era aprender apenas sobre manutenção de computadores, mas me encontro cada vez mais fascinado pela área de programação e desenvolvimento web.
 
